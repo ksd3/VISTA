@@ -1,7 +1,7 @@
 # VISTA
 Python implementation of the VISTA (Video Imputation with SoftImpute, Temporal smoothing and Auxiliary data) algorithm of Sun et al.
 
-If you use this code, please shoot me an email at kshitijd[at]bu.edu!
+If you use this code, please shoot me an email at kshitijd[at]bu.edu! I'd like to know if you run into any problems.
 
 If you use VISTA for your own work, please cite the following two papers:
 
